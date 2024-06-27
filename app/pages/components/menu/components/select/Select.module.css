@@ -1,0 +1,16 @@
+.select {
+    font-size: 1.5rem;
+    padding: 5px 10px;
+    width: 100%;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.select:hover {
+    cursor: pointer;
+    background-color: #f8fafc;
+    color: #334155;
+    transition: all 0.5s;
+}

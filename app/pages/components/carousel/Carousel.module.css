@@ -1,0 +1,9 @@
+.carousel {
+    background-color: #64748b;
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5vh;
+}

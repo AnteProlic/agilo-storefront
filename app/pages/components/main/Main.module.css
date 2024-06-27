@@ -1,0 +1,12 @@
+
+.products {
+    border-radius: 10px;
+    width: 89vw;
+    margin: 10vh auto 5vh auto;
+    min-height: 100vh;
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 2vh;
+    column-gap: 1vw;
+}
